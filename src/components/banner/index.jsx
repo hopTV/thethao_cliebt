@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 const Banner = () => {
   return (
-    <div className="bg-[url(https://www.luongson40.tv/wp-content/uploads/2024/05/bglive.png)] bg-no-repeat bg-[center_top] bg-black">
+    <div className="bg-[url(https://www.luongson40.tv/wp-content/uploads/2024/05/bglive.png)] bg-no-repeat bg-[center_top] bg-current">
       <div className="container max-w-[1300px] mx-auto pt-4">
         <div className="flex gap-2 w-full lg:h-[450px] xl:h-[580px] lg:px-2 xl:gap-4 xl:p-0 2xl:w-full 3xl:h-[765px]">
           <div className="lg:w-[79%] w-full rounded-2xl  px-2 lg:px-0 relative">
